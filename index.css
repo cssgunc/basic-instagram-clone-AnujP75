@@ -1,1 +1,70 @@
+.statistics {
+    display: flex;
+    justify-content: space-evenly;
+}
 
+.box {
+    display: flex;
+    flex-direction: row;
+    border: 1px black;
+    background-color: gray;
+}
+
+.image {
+    display:flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+
+#profile {
+    border-radius: 50%;
+
+}
+
+#header {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#bio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 25px;
+}
+
+#tick {
+    padding-top: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+#icon {
+    width: 20px;
+    height: 20px;
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+}
+
+.media {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 25px;
+}
