@@ -1,3 +1,7 @@
+#body {
+    width: 50%;
+}
+
 .statistics {
     display: flex;
     justify-content: space-evenly;
